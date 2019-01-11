@@ -1,0 +1,26 @@
+8
+w 2 2
+i 8 8
+q 1 1
+o 9 9
+y 6 6
+u 7 7
+p 10 10
+a 11 11
+s 12 12
+d 13 13
+r 4 4
+##start
+e 3 3
+##end
+t 5 5
+e-q
+q-t
+e-y
+y-t
+e-i
+i-o
+o-p
+p-s
+s-r
+r-t
